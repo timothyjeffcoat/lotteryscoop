@@ -1,4 +1,4 @@
-# Lottery Scoop Track your lottery picks.
+# Lottery Scoop - Track your lottery picks.
 
 An application to manage your personal lottery history. 
 
