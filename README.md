@@ -1,3 +1,7 @@
+# Front-end 
+
+This is the front-end code for lottery scoop
+
 # Lottery Scoop - Track your lottery picks.
 
 An application to manage your personal lottery history. 
